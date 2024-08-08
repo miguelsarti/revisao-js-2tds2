@@ -13,6 +13,6 @@ ataques.push(armas[4]);
         if (i == 0) {
             console.log('nome do robô: ' + ataques[i]);
         } else {
-        console.log('ataques' + [i] + ': ' + ataques[i]);
+        console.log('ataques ' + [i] + ': ' + ataques[i]);
     }
 }
